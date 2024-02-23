@@ -1,2 +1,1 @@
-# magzk
-# learning python from scratch
+# learning python
