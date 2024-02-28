@@ -1,5 +1,5 @@
 #first file
-v = 1
-u = 1 
+v = 21
+u = 33 
 x = v + u
 print(x)
