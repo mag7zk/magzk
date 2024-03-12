@@ -10,3 +10,5 @@ print (cmath.phase(z))
 print (cmath.abs(z))
 print ("The rectangular form of complex number is : ",end="")
 print (w)
+# using the exponentiation operator
+ex = v ** u
