@@ -12,3 +12,5 @@ print ("The rectangular form of complex number is : ",end="")
 print (w)
 # using the exponentiation operator
 ex = v ** u
+#Modulus: returns the remainder when the first operand is divided by the second
+mod =x % y
