@@ -14,3 +14,12 @@ print (w)
 ex = v ** u
 #Modulus: returns the remainder when the first operand is divided by the second
 mod =x % y
+
+
+
+val1 = 3
+val2 = 2
+ 
+# using the floor division
+res = val1 // val2
+print(res)
