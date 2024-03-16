@@ -23,3 +23,5 @@ val2 = 2
 # using the floor division
 res = val1 // val2
 print(res)
+res = val1 % val2
+print(res)
