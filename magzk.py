@@ -25,3 +25,7 @@ res = val1 // val2
 print(res)
 res = val1 % val2
 print(res)
+
+if (v > 10): 
+    print("v is larger than 10") 
+print("I am not in if")
