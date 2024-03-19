@@ -28,3 +28,6 @@ print(res)
 if (v > 10): 
     print("v is larger than 10") 
 print("I am not in if")
+
+#find the arc cosine of a complex number
+print (cmath.acos(2+3j))
