@@ -29,5 +29,11 @@ if (v > 10):
     print("v is larger than 10") 
 print("I am not in if")
 
+if (v == 21):
+    print("v = 21") 
+    
+print (cmath.cos(3.1415))
+
 #find the arc cosine of a complex number
 print (cmath.acos(2+3j))
+
