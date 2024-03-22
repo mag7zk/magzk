@@ -15,10 +15,9 @@ ex = v ** u
 mod =x % y
 
 
-
 val1 = 3
 val2 = 2
- 
+
 # using the floor division
 res = val1 // val2
 print(res)
@@ -37,4 +36,12 @@ print (cmath.cos(3.1415))
 
 #find the arc cosine of a complex number
 print (cmath.acos(2+3j))
+
+a = 33
+b = 33
+if b > a:
+  print("b is greater than a")
+elif a == b:
+  print("a and b are equal")
+ 
 
