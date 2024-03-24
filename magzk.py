@@ -47,5 +47,11 @@ elif a == b:
 token = ["BTC", "ETH", "ATOM"]
 for x in token:
   print(x)
+    
+for x in range(6):
+  if x == 3: break
+  print(x)
+else:
+  print("Finally finished!")
  
 
