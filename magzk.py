@@ -62,3 +62,8 @@ fruits = ["apple", "banana", "cherry"]
 for x in adj:
   for y in fruits:
     print(x, y)
+
+def my_function(fname):
+  print("name: " + fname)
+
+my_function("magzk")
