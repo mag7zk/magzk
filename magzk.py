@@ -15,14 +15,13 @@ ex = v ** u
 #Modulus: returns the remainder when the first operand is divided by the second
 mod =x % y
 
-
-val1 = 3
-val2 = 2
+v1 = 3
+v2 = 2
 
 # using the floor division
-res = val1 // val2
+res = v1 // v2
 print(res)
-res = val1 % val2
+res = v1 % v2
 print(res)
 
 if (v > 10): 
