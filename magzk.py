@@ -18,6 +18,9 @@ mod =x % y
 v1 = 3
 v2 = 2
 
+x = min(5, 10, 25)
+print(x)
+
 # using the floor division
 res = v1 // v2
 print(res)
