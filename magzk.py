@@ -18,8 +18,12 @@ mod =x % y
 v1 = 3
 v2 = 2
 
+#min
 x = min(5, 10, 25)
 print(x)
+#max
+y = max(5, 10, 25)
+
 
 # using the floor division
 res = v1 // v2
