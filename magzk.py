@@ -23,7 +23,7 @@ x = min(5, 10, 25)
 print(x)
 #max
 y = max(5, 10, 25)
-
+print(y)
 
 # using the floor division
 res = v1 // v2
