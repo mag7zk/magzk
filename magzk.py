@@ -28,6 +28,9 @@ print(y)
 x = abs(-17)
 print(x)
 
+x = pow(2, 3)
+print(x)
+
 # using the floor division
 res = v1 // v2
 print(res)
