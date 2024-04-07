@@ -76,6 +76,12 @@ for x in adj:
   for y in fruits:
     print(x, y)
 
+import math
+x = math.sqrt(64)
+print(x)
+
+
+
 def my_function(fname):
   print("name: " + fname)
 
