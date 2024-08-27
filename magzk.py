@@ -1,7 +1,7 @@
 #learning python
 import cmath
-v = 21
-u = 33 
+v = 17
+u = 21 
 x = v + u
 y = v / u
 print("v + u = ",x)
